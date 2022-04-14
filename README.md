@@ -4,7 +4,7 @@ gotool
 0.0.1
 ## Installation
 ```
-github.com/MyAuntIsPost90s/gotool
+go get github.com/MyAuntIsPost90s/gotool
 ```
 ## Demo
 ### Filter
