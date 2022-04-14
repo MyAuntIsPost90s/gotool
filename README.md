@@ -1,7 +1,7 @@
 gotool
 ===
 ## Version
-0.0.1
+0.0.2
 ## Installation
 ```
 go get github.com/MyAuntIsPost90s/gotool
